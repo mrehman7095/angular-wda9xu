@@ -1,0 +1,8 @@
+/* Add application styles & imports to this file! */
+.map-height {
+    height: calc(100vh - 120px);
+}
+.map-inline {
+    padding: 1px 10px; 
+    overflow-y: scroll;
+}
